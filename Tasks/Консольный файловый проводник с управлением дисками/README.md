@@ -104,3 +104,5 @@
 
 
 Пользователь должен иметь возможность выйти из приложения.
+
+[![DiskManager.cs](https://img.shields.io/badge/💽_DiskManager.cs-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/MinorityKilla/homeworkZelenin/blob/main/Tasks/Консольный%20файловый%20проводник%20с%20управлением%20дисками/DiskManager.cs)
