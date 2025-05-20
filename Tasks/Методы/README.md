@@ -3,7 +3,7 @@
 
 Инструменты: Visual Studio 2022
 
-[![Все задания](https://img.shields.io/badge/📁_Все_задания-607D8B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinorityKilla/homeworkZelenin/tree/main/Tasks)
+[![Главная страница](https://img.shields.io/badge/🏠_Главная_страница-4285F4?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/MinorityKilla/homeworkZelenin/blob/main/README.md)
 
 ## Вопрос 1
 B) Блок кода, выполняющий определенную задачу
