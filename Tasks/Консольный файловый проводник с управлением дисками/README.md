@@ -5,3 +5,6 @@
 
 [![Все задания](https://img.shields.io/badge/📁_Все_задания-607D8B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinorityKilla/homeworkZelenin/tree/main/Tasks)
 
+## Задание 1
+
+[![Файловый проводник](https://img.shields.io/badge/📁_Файловый_проводник-795548?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/MinorityKilla/homeworkZelenin/blob/main/Tasks/Консольный%20файловый%20проводник%20с%20управлением%20дисками/Program.cs)
