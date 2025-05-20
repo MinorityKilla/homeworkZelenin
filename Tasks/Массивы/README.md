@@ -20,6 +20,4 @@
 
 # Задание 1
 
-Ссылка на код:
-
-[![Код массива](https://img.shields.io/badge/Программа-Массивы-FF6B6B?style=flat-square&logo=csharp&logoColor=white)](https://github.com/MinorityKilla/homeworkZelenin/blob/main/Tasks/Массивы/Program.cs)
+[![Работа с массивами](https://img.shields.io/badge/📊_Массивы-9C27B0?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/MinorityKilla/homeworkZelenin/blob/main/Tasks/Массивы/Program.cs)
