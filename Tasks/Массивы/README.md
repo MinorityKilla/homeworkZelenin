@@ -1,6 +1,10 @@
 # Массивы. Ответы на вопросы(4) и задание(1):
 Работу выполнил: Зеленин Павел ИПО-23.23
 
+Инструменты: Visual Studio 2022
+
+[![Все задания](https://img.shields.io/badge/📁_Все_задания-607D8B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinorityKilla/homeworkZelenin/tree/main/Tasks)
+
 # Вопрос 1
 
 Ответ: 18
