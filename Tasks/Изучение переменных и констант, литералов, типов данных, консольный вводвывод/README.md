@@ -6,3 +6,6 @@
 [![Все задания](https://img.shields.io/badge/📁_Все_задания-607D8B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinorityKilla/homeworkZelenin/tree/main/Tasks)
 
 ## Задание 1
+Создание простого калькулятора:
+
+[![Калькулятор](https://img.shields.io/badge/📚_Изучение_переменных-009688?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/MinorityKilla/homeworkZelenin/blob/main/Tasks/Изучение%20переменных%20и%20констант%2C%20литералов%2C%20типов%20данных%2C%20консольный%20вводвывод/Program.cs)
