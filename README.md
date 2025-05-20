@@ -41,7 +41,7 @@ Cоздание простого калькулятора, который смо
 ## Задание 6:
 Методы. Ответы на вопросы и задачи:
 
-
+[![Методы](https://img.shields.io/badge/📚_Методы-607D8B?style=for-the-badge&logo=book&logoColor=white)](https://github.com/MinorityKilla/homeworkZelenin/blob/main/Tasks/Методы/README.md)
 
 ## Задание 7:
 5 задач с платформы CodeRun:
